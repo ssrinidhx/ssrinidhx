@@ -10,37 +10,52 @@
 
 <table>
 <tr>
-<td width="40%" valign="top" style="padding-bottom: 40px;">
+<td width="40%" valign="top">
 
 ## 🧠 About Me
 
-- 🌱 Currently exploring data, AI, and development  
-- 🛠️ Learning by building real-world projects  
-- 📊 Interested in turning raw data into meaningful insights  
+- Currently exploring data, AI, and development  
+- Learning by building real-world projects  
+- Interested in turning raw data into meaningful insights  
 
 ---
 
 ## ⚙️ Tech Stack
 
-<!-- Row 1: Languages -->
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,html,css,js" />
-</p>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- Row 2: Frameworks — 6 icons, all normalized to 48px box -->
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react" /><img src="https://img.icons8.com/color/48/oracle-logo.png" width="48" height="48" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;">
-</p>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<!-- Row 3: Data / ML — 6 icons -->
-<p>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;vertical-align:middle;">
-</p>
+### Web Development & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
-<!-- Row 4: Tools — 6 icons -->
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,github,vscode" /><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="48" height="48" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;"><img src="https://img.icons8.com/color/48/canva.png" width="48" height="48" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;">
-</p>
+### Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Analytics & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Deployment Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 </td>
 
@@ -63,17 +78,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssrinidhx&theme=github-dark&hide_border=true"/>
 </p>
 
-</td>
-</tr>
-</table>
-
----
-
 ## 🧩 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/srinidhx?theme=dark&font=calibri&ext=heatmap" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
