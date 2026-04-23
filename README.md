@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="40%" valign="top" style="padding-bottom: 40px;">
 
 ## 🧠 About Me
 
@@ -22,33 +22,25 @@
 
 ## ⚙️ Tech Stack
 
+<!-- Row 1: Languages -->
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,html,css,js" />
 </p>
 
+<!-- Row 2: Frameworks — 6 icons, all normalized to 48px box -->
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react" />
-  <img src="https://img.icons8.com/color/48/oracle-logo.png" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;vertical-align:middle;">
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;vertical-align:middle;">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react" /><img src="https://img.icons8.com/color/48/oracle-logo.png" width="48" height="48" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;">
 </p>
 
+<!-- Row 3: Data / ML — 6 icons -->
 <p>
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="32" style="background:#1f2937;border-radius:10px;padding:4px;">
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;margin-right:2px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="36" height="36" style="background:#1f2937;border-radius:10px;padding:6px;vertical-align:middle;">
 </p>
 
+<!-- Row 4: Tools — 6 icons -->
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,github,vscode" />
-  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
-  <img src="https://img.icons8.com/color/48/canva.png" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
+  <img src="https://skillicons.dev/icons?i=aws,github,vscode" /><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="48" height="48" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;"><img src="https://img.icons8.com/color/48/canva.png" width="48" height="48" style="background:#1f2937;border-radius:10px;padding:6px;margin-left:2px;vertical-align:middle;">
 </p>
-
-<br><br><br><br><br>
 
 </td>
 
