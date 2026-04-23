@@ -63,23 +63,23 @@
 
 ## 📌 What I'm Working On
 
-- Building projects to apply concepts and understand them better  
-- Practicing problem-solving and improving analytical thinking  
-- Exploring how data can be used to solve practical, real-world problems 
+- Building projects to apply concepts and understand them better
+- Practicing problem-solving and improving analytical thinking
+- Exploring how data can be used to solve practical, real-world problems
+- Strengthening fundamentals by applying concepts consistently in projects
 
 ---
 
 ## 📈 GitHub Stats
 
 <br>
-<br>
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssrinidhx&theme=github-dark&hide_border=true"/>
 </p>
 
 ## 🧩 LeetCode Stats
 
+<br>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/srinidhx?theme=dark&font=calibri&ext=heatmap" />
 </p>
