@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react" />
   <img src="https://img.icons8.com/color/48/oracle-logo.png" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;vertical-align:middle;">
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;vertical-align:middle;">
 </p>
@@ -47,6 +47,9 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
   <img src="https://img.icons8.com/color/48/canva.png" height="32" style="background:#1f2937;border-radius:10px;padding:4px;margin-left:4px;">
 </p>
+
+<br><br><br><br><br>
+
 </td>
 
 <td width="60%" valign="top">
@@ -79,7 +82,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/srinidhx?theme=dark&font=calibri&ext=heatmap" />
 </p>
-
 
 ---
 
