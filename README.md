@@ -73,8 +73,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ssrinidhx&theme=github-dark&hide_border=true"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ssrinidhx&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssrinidhx&theme=github-dark&hide_border=true"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ssrinidhx&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
