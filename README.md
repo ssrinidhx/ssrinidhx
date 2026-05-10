@@ -72,18 +72,18 @@
 
 ## 📈 GitHub Stats
 
+<br>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ssrinidhx&theme=github-dark&hide_border=false&border=30363d"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ssrinidhx&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssrinidhx&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 🧩 LeetCode Stats
 
+<br>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/srinidhx?theme=dark&font=calibri&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/srinidhx?theme=dark&font=calibri&ext=heatmap&border=0"/>
 </p>
 
 </td>
