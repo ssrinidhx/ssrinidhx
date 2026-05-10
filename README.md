@@ -72,14 +72,16 @@
 
 ## 📈 GitHub Stats
 
-<br>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssrinidhx&theme=github-dark&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssrinidhx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
 ## 🧩 LeetCode Stats
 
-<br>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/srinidhx?theme=dark&font=calibri&ext=heatmap" />
 </p>
@@ -87,8 +89,6 @@
 </td>
 </tr>
 </table>
-
----
 
 ## 🔗 Open to Connect
 
@@ -103,5 +103,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
----
